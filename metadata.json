@@ -1,0 +1,6 @@
+{
+  "name": "Shopify Zip-Code Pricing Demo",
+  "description": "A high-fidelity Shopify storefront featuring a dynamic ZIP code location pricing engine with matching integrated merchant rates configuration dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
